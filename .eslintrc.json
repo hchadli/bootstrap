@@ -54,7 +54,6 @@
     "unicorn/no-array-callback-reference": "off",
     "unicorn/no-array-for-each": "off",
     "unicorn/no-array-method-this-argument": "off",
-    "unicorn/no-for-loop": "off",
     "unicorn/no-null": "off",
     "unicorn/no-unused-properties": "error",
     "unicorn/no-useless-undefined": "off",
@@ -62,7 +61,6 @@
     "unicorn/prefer-array-flat": "off",
     "unicorn/prefer-dom-node-dataset": "off",
     "unicorn/prefer-module": "off",
-    "unicorn/prefer-prototype-methods": "off",
     "unicorn/prefer-query-selector": "off",
     "unicorn/prevent-abbreviations": "off"
   }
