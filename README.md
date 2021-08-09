@@ -21,7 +21,7 @@
   <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 
-EDIT
+
 
 
 ## Bootstrap 5
